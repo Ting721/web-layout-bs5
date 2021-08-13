@@ -1,0 +1,39 @@
+.index__h1 {
+  color: #00cc99;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.nav-link :hover, .nav-link:focus {
+  color: #198754;
+  border-left: 4px solid #198754;
+  margin-left: -0.7rem;
+}
+
+.andy {
+  width: 40px;
+  height: 40px;
+  border-radius: 999rem;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  background-color: #fff;
+  color: #000;
+}
+
+.page-item.active .page-link {
+  background-color: #198754;
+  border-color: #198754;
+}
+
+.img-cover {
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 100%;
+}
+
+.modal-header {
+  border-bottom: none;
+}
+
+/*# sourceMappingURL=index.css.map */
